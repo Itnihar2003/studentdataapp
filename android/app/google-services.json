@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530776969112",
+    "project_id": "final-data-5c867",
+    "storage_bucket": "final-data-5c867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530776969112:android:eb612266533764aa0c65ed",
+        "android_client_info": {
+          "package_name": "com.example.dataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoq70cO9SqAi-CYlnWHosawnxlxap-nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
